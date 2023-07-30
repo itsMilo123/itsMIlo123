@@ -1,0 +1,25 @@
+#Apps{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(41, 40, 40);
+}
+h1{
+    font-size: 30px;
+    font-family:'Mukta', sans-serif;
+
+}
+
+#Games{
+    background-color: rgb(41, 40, 40);
+    color: white;
+    text-align: center;
+}
+#ChatBot{
+    text-align: center;
+    background-color: rgb(41, 40, 40);
+    color: white;
+}
+p {
+    font-size: 20px;
+    margin-top: 12.5px;
+}
